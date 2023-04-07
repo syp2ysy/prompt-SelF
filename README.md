@@ -8,7 +8,7 @@ Yanpeng Sun<sup>1,2</sup>, &nbsp; Qiang Chen<sup>1*</sup>, &nbsp; Jian Wang<sup>
 
 <br>
   
-<image src="reason.png" width="720px" />
+<image src="prompt-self_motivation.jpg" width="720px" />
 <br>
 
 </div>
