@@ -1,11 +1,9 @@
 <div align="center">
-<h1>SegGPT: Segmenting Everything In Context </h1>
+<h1>Exploring Effective Factors for Improving Visual In-Context Learning </h1>
 
-[Xinlong Wang](https://www.xloong.wang/)<sup>1*</sup>, &nbsp; [Xiaosong Zhang](https://scholar.google.com/citations?user=98exn6wAAAAJ&hl=en)<sup>1*</sup>, &nbsp; [Yue Cao](http://yue-cao.me/)<sup>1*</sup>, &nbsp; [Wen Wang](https://scholar.google.com/citations?user=1ks0R04AAAAJ&hl)<sup>2</sup>, &nbsp;  [Chunhua Shen](https://cshen.github.io/)<sup>2</sup>, &nbsp; [Tiejun Huang](https://scholar.google.com/citations?user=knvEK4AAAAAJ&hl=en)<sup>1,3</sup>
+Yanpeng Sun<sup>1,2</sup>, &nbsp; Qiang Chen<sup>1*</sup>, &nbsp; Jian Wang<sup>1</sup>, &nbsp; Jingdong Wang<sup>1</sup>, &nbsp; Zechao Li<sup>2</sup>
 
-<sup>1</sup>[BAAI](https://www.baai.ac.cn/english.html), &nbsp; <sup>2</sup>[ZJU](https://www.zju.edu.cn/english/), &nbsp; <sup>3</sup>[PKU](https://english.pku.edu.cn/)
-
-Enjoy the [Demo](https://huggingface.co/spaces/BAAI/SegGPT)
+<sup>1</sup>Baidu VIS, &nbsp; <sup>2</sup>Nanjing University of Science and Technology
 
 
 <br>
