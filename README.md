@@ -25,11 +25,13 @@ Yanpeng Sun<sup>1,2</sup>, &nbsp; Qiang Chen<sup>1*</sup>, &nbsp; Jian Wang<sup>
 Our evaluation pipeline is based on [visual_prompting](https://github.com/amirbar/visual_prompting.git). 
 Please follow the dataset preparation steps for PASCAL-5i dataset and Model Weights in this repository.
 
-### Evaluate Prompt-self on Segmentaion on Pascal 5i on split [0-3]:
+### Evaluate Prompt-self on Segmentaion on Pascal 5i:
 
 ```
-cd evaluate && bash test_pascal_prompt_self.sh
+cd evaluate && bash test_pascal.sh $fold
 ```
+
+
 
 ## Citation
 
