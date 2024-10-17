@@ -20,7 +20,19 @@ Yanpeng Sun<sup>1,2</sup>, &nbsp; Qiang Chen<sup>1*</sup>, &nbsp; Jian Wang<sup>
 
 
 
+## Evaluation
+### Dataset preparation & Pretrained Models
+Our evaluation pipeline is based on [visual_prompting](https://github.com/amirbar/visual_prompting.git). 
+Please follow the dataset preparation steps for PASCAL-5i dataset and Model Weights in this repository.
+
+### Evaluate Prompt-self on Segmentaion on Pascal 5i on split [0-3]:
+
+```
+cd evaluate && bash test_pascal_prompt_self.sh
+```
 
 ## Citation
 
 
+## Acknowledgments
+Part of the code is borrowed from [visual_prompting](https://github.com/amirbar/visual_prompting.git), [timm](https://github.com/huggingface/pytorch-image-models.git).
